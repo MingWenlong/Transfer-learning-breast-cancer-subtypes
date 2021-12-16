@@ -1,5 +1,5 @@
 # /usr/bin/env python 3.5
-# convert pre, post-1 and post-3 MR images to RGB three channel images for transfer learning
+# convert pre, post-1 and post-5 MR images to RGB three channel images for transfer learning
 
 import SimpleITK as sitk
 import os
