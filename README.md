@@ -28,6 +28,7 @@ Predicting hormone receptors and PAM50 subtypes of breast cancer from multi-scal
 
 # Files description and Usage
 
+
 * MRI_data_processing.py 
 
   		This python file details the MRI data preprocessing methods and steps in this work (from 3D NRRD file to 2D RBG images), including 5 steps:
@@ -57,6 +58,10 @@ Predicting hormone receptors and PAM50 subtypes of breast cancer from multi-scal
 		Then 5 representative network architectures pre-trained on ImageNet were chosen (Inception-v3, Xception, Inception-ResNet-v2, VGG16 and ResNet50).
 		
 		ACC, AUROC, AUPRC, and Top-2 ACC were employed to assess the prediction performance of testing dataset in the 5-fold CV.
+
+* Example_data
+
+  		The folder structures for TF model inputs and example images can be found in this folder.
 
 
 # Citation
