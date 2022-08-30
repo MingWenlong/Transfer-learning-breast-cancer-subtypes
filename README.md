@@ -7,7 +7,7 @@ Predicting hormone receptors and PAM50 subtypes of breast cancer from multi-scal
 ![1661852510240](https://user-images.githubusercontent.com/96223873/187404769-a6553c85-e71d-49e4-91ae-8694da8bda23.png)
 
 
-# Installation requirements
+# Setup
 
 * Software
 
