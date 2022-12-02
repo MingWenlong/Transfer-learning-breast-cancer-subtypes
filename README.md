@@ -66,7 +66,7 @@ Predicting hormone receptors and PAM50 subtypes of breast cancer from multi-scal
 
 # Citation
 
-To be updated.
+Ming W, Li F, Zhu Y, et al. Predicting hormone receptors and PAM50 subtypes of breast cancer from multi-scale lesion images of DCE-MRI with transfer learning technique [published online ahead of print, 2022 Sep 28]. Comput Biol Med. 2022;150:106147. doi:10.1016/j.compbiomed.2022.106147
 
 # License
 
